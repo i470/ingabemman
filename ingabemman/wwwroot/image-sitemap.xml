@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  generator="Inspyder Sitemap Creator 5.1.4"  -->
+<!-- Last Updated 11/1/2020 5:35:50 PM -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+	<url>
+		<loc>https://ingabemman.azurewebsites.net/</loc>
+		<lastmod>2020-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_anderson_island-min.PNG</image:loc>
+			<image:caption>Inga Bemman</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_arizona_maricopa_dessert.html</loc>
+		<lastmod>2020-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_arizona_maricopa_dessert.jpg</image:loc>
+			<image:caption>Bemman, Inga</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_cloud_expo.html</loc>
+		<lastmod>2020-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_cloud_expo.jpg</image:loc>
+			<image:caption>New York Cloud Expo 2015 Bemman, Inga</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_beach.html</loc>
+		<lastmod>2020-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_beach.jpg</image:loc>
+			<image:caption>Bemman, Inga Beach</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_detroit_2020_surface.html</loc>
+		<lastmod>2020-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_detroit_2020_surface-min.jpg</image:loc>
+			<image:caption>Detroit Bemman, Inga</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_detroit_2020_the_brakeman_caffee.html</loc>
+		<lastmod>2020-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_detroit_2020_the_brakeman_caffee-min.jpg</image:loc>
+			<image:caption>The Brakeman Detroit Bemman, Inga</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_loyola_university_new_orleans.html</loc>
+		<lastmod>2020-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_loyola_university_new_orleans-min.jpg</image:loc>
+			<image:caption>Inga Bemman Loyola University New Orleans</image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_loyola_university_new_orleans.jpg</image:loc>
+			<image:title>Inga Bemman Image Gallery</image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_euro_bike.html</loc>
+		<lastmod>2020-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_euro_bike-min.jpg</image:loc>
+			<image:caption>Euro Bike Bemman, Inga</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_sailing.html</loc>
+		<lastmod>2020-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_sailing-min.jpg</image:loc>
+			<image:caption>Sailing Bemman, Inga</image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_maricopa_arizona_intel_2017.html</loc>
+		<lastmod>2020-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://ingabemman.azurewebsites.net/images/inga_bemman_maricopa_arizona_intel_2017.jpg</image:loc>
+			<image:caption>Intel Bemman, Inga</image:caption>
+		</image:image>
+	</url>
+</urlset>

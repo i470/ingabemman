@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--  generator="Inspyder Sitemap Creator 5.1.4"  -->
+<!-- Last Updated 11/1/2020 5:09:42 PM -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>https://ingabemman.azurewebsites.net/</loc>
+	<lastmod>2020-11-01</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_arizona_maricopa_dessert.html</loc>
+	<lastmod>2020-11-01</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>https://ingabemman.azurewebsites.net/gallery/inga_bemman_cloud_expo.html</loc>
+	<lastmod>2020-11-01</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>
